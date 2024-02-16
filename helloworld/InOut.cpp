@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-//git commit -am "SomeComment"
+//git commit -am "SomeComment" 
+//This is second commit
 
 int main()
 {
